@@ -1,5 +1,6 @@
 ## Hi there 🤗 
-![](https://pbs.twimg.com/profile_images/1904916216931901442/6qq7r1-H.jpg)
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/197546681?s=400&u=09507a580884ccb9f35d83e889c192c7e74adb0f&v=4">
+</p>
 
 🙋‍♀️ Our vision is to establish SeekGPT as a globally recognized, open, and ethically grounded Artificial General Intelligence (AGI) foundational model, driven by India's diverse talent and cultural values, contributing to the advancement of humanity.
 
